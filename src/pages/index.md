@@ -4,10 +4,9 @@ hide_title: true
 sections:
   - section_id: hero
     type: section_hero
-    title: 'Hi, I''m Stackbit Exto Portfolio Theme.'
+    title: 'Mar & Layla Masterpieces'
     content: >-
-      This section can contain a subtitle or tagline. The recommended length is
-      one to three sentences, but can be changed as you prefer.
+      At a very young age, Mar and Layla are already very prolific artists. Here you will be able to enjoy some of their masterpieces.
     actions:
       - label: Let's talk
         url: /contact

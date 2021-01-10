@@ -1,15 +1,14 @@
 ---
-title: About Us
-subtitle: This is a short page about us and our work.
-image: images/about.jpg
-image_alt: A man taking a picture
+title: About us
+subtitle: >-
+  I want Mar and Layla to see all the art they created growing up. I also want
+  them to read about all the fun things they did and all the happy moments
+  together as a family.
+image: images/family-portrait.jpg
 template: page
+excerpt: We're "messers" because we're artists. I love being an artist.
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus vel venenatis augue. Suspendisse tincidunt, nibh eget sodales eleifend, lectus magna elementum lorem, ut bibendum tellus turpis quis risus. Vivamus sagittis enim est, et semper lectus hendrerit ut.
+I'm pretty sure this paragraph is going to change over time, but right now Mar and Layla (5 and 2) love doing art and I thought it'd be nice to organize and save part of it so they can look at it when they are older. We'll see how it goes :)
 
->The world always seems brighter when you’ve just made something that wasn’t there before. - Neil Gaiman
-
-In sollicitudin imperdiet turpis quis accumsan. Pellentesque euismod turpis et nisi fermentum accumsan. Sed mollis vehicula augue sit amet accumsan. Nunc mollis, risus sed ullamcorper bibendum, odio est molestie tellus, venenatis rutrum mauris nibh at nibh. In a auctor leo, eu pretium ante. Quisque faucibus tincidunt fringilla. Donec tempor accumsan ante, in cursus metus tincidunt at. Proin sit amet ligula sed libero consequat consectetur eu tincidunt nulla. 
-
-*Thank You for reading!*
+> We're "messers" because we're artists. And I love bieng an artist. -Mar A.
