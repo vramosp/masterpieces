@@ -4,7 +4,7 @@ hide_title: true
 sections:
   - section_id: hero
     type: section_hero
-    title: 'Mar & Layla's Masterpieces'
+    title: 'Mar & Layla Masterpieces'
     content: >-
       At a very young age, Mar and Layla are already very prolific artists. Here you will be able to enjoy some of their masterpieces.
     actions:
