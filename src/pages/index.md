@@ -14,15 +14,6 @@ sections:
       - label: Layla's artwork
         url: /layla
         style: button
-  - section_id: latest-projects
-    type: section_mar
-    layout_style: mosaic
-    title: Recent Work
-    subtitle: >-
-      Mar's latest masterpieces
-    projects_number: 6
-    view_all_label: View All
-    view_all_url: mar/4-year-old
- 
+        
 template: advanced
 ---
