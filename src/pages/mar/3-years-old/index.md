@@ -1,7 +1,7 @@
 ---
 title: 3 Years Old
-subtitle: This is an optional subtitle for the portfolio page.
+subtitle: Mar - 3 years old
 layout_style: mosaic
 template: mar-years
-year: 3-year-old
+year: 3-years-old
 ---
