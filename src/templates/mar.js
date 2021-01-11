@@ -31,8 +31,9 @@ export default class Portfolio extends React.Component {
               <ul>
               <li><a href="/mar/1-year-old">1 year old</a></li>
               <li><a href="/mar/2-years-old">2 years old</a></li>
-              <li><a href="/mar/2-years-old">3 years old</a></li>
-              <li><a href="/mar/2-years-old">4 years old</a></li>
+              <li><a href="/mar/3-years-old">3 years old</a></li>
+              <li><a href="/mar/4-years-old">4 years old</a></li>
+              <li><a href="/mar/5-years-old">5 years old</a></li>
               </ul>
             </div>
             </Layout>
