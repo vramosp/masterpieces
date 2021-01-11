@@ -17,8 +17,8 @@ export const query = graphql`
 
 export default class Portfolio extends React.Component {
     render() {
-        let display_projects = _.orderBy(getPages(this.props.pageContext.pages, '/portfolio/' + pageContext.frontmatter.year), 'frontmatter.date', 'desc');
-        console.log('/portfolio/' + pageContext.frontmatter.year);
+        let display_projects = _.orderBy(getPages(this.props.pageContext.pages, '/portfolio/' + this.props.pageContext.frontmatter.year), 'frontmatter.date', 'desc');
+        console.log('/portfolio/' + this.props.pageContext.frontmatter.year);
         return (
             <Layout {...this.props}>
             <div className="inner outer">
