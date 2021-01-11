@@ -27,12 +27,22 @@ export default class Portfolio extends React.Component {
                 <p className="page-subtitle">{_.get(this.props, 'pageContext.frontmatter.subtitle', null)}</p>
                 )}
               </header>
-
-              <ul>
-              <li><a href="/portfolio/2-years-old">2 year old</a></li>
-              <li><a href="/portfolio/2-years-old">3 year old</a></li>
-              <li><a href="/portfolio/2-years-old">4 year old</a></li>
-              </ul>
+              <div className={'portfolio-feed layout-' + _.get(this.props, 'pageContext.frontmatter.layout_style', null)}>
+                {_.map(display_projects, (post, post_idx) => (
+                <article key={post_idx} className="project">
+                  <Link to={withPrefix(_.get(post, 'url', null))} className="project-link">
+                    {_.get(post, 'frontmatter.thumb_image', null) && (
+                    <div className="project-thumbnail">
+                      <img src={withPrefix(_.get(post, 'frontmatter.thumb_image', null))} alt={_.get(post, 'frontmatter.thumb_image_alt', null)} />
+                    </div>
+                    )}
+                    <header className="project-header">
+                      <h2 className="project-title">{_.get(post, 'frontmatter.title', null)}</h2>
+                    </header>
+                  </Link>
+                </article>
+                ))}
+              </div>
             </div>
             </Layout>
         );
