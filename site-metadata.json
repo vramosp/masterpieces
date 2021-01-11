@@ -1,9 +1,9 @@
 {
-    "description": "A portfolio theme with a blog",
+    "description": "Mar and Layla's masterpieces",
     "color_scheme": "light",
     "accent_color": "pink",
     "header": {
-        "title": "Exto",
+        "title": "🎨",
         "has_nav": true,
         "nav_links": [
             {
@@ -12,8 +12,13 @@
                 "style": "link"
             },
             {
-                "label": "Portfolio",
-                "url": "/portfolio/",
+                "label": "Mar's artwork",
+                "url": "/mar/",
+                "style": "link"
+            },
+            {
+                "label": "Layla's artwork",
+                "url": "/layla/",
                 "style": "link"
             },
             {
