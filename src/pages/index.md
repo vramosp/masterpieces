@@ -23,8 +23,7 @@ sections:
     projects_number: 6
     view_all_label: View All
     view_all_url: mar/4-year-old
-
-    - section_id: layla-latest-projects
+  - section_id: layla-latest-projects
     type: section_layla
     layout_style: mosaic
     title: Recent Work
