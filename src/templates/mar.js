@@ -28,13 +28,17 @@ export default class Portfolio extends React.Component {
                 )}
               </header>
 
-              <ul>
-              <li>1 year old<br/><a href="/mar/1-year-old"><img src="images/mar-1yo.JPG" title="1 year old" height="200px;"/></a></li>
-              <li>2 years old<br/><a href="/mar/2-years-old"><img src="images/mar-2yo.JPG" title="2 years old" height="200px;"/></a></li>
-              <li>3 years old<br/><a href="/mar/3-years-old"><img src="images/mar-3yo.JPG" title="3 years old" height="200px;"/></a></li>
-              <li>4 years old<br/><a href="/mar/4-years-old"><img src="images/mar-4yo.JPG" title="4 years old" height="200px;"/></a></li>
-              <li>5 years old<br/><a href="/mar/5-years-old"><img src="images/mar-5yo.JPG" title="5 years old" height="200px;"/></a></li>
-              </ul>
+              <table>
+                <tr>
+                  <td><h3>1 year old</h3><br/><a href="/mar/1-year-old"><img src="images/mar-1yo.JPG" title="1 year old" /></a></td>
+                  <td>2 years old<br/><a href="/mar/2-years-old"><img src="images/mar-2yo.JPG" title="2 years old" /></a></td>
+                  <td>3 years old<br/><a href="/mar/3-years-old"><img src="images/mar-3yo.jpg" title="3 years old" /></a></td>
+                </tr>
+                <tr>
+                  <td>4 years old<br/><a href="/mar/4-years-old"><img src="images/mar-4yo.jpg" title="4 years old" /></a></td>
+                  <td>5 years old<br/><a href="/mar/5-years-old"><img src="images/mar-5yo.jpg" title="5 years old" /></a></td>
+                </tr>
+              </table>
             </div>
             </Layout>
         );
