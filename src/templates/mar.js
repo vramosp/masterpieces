@@ -30,9 +30,17 @@ export default class Portfolio extends React.Component {
 
               <div>
                 <a href="/mar/1-year-old"><img src="images/mar-1yo.JPG" title="1 year old" /></a>
+              </div>
+              <div>
                 <a href="/mar/2-years-old"><img src="images/mar-2yo.JPG" title="2 years old" /></a>
+              </div>
+              <div>  
                 <a href="/mar/3-years-old"><img src="images/mar-3yo.jpg" title="3 years old" /></a>
+              </div>
+              <div>  
                 <a href="/mar/4-years-old"><img src="images/mar-4yo.jpg" title="4 years old" /></a>
+              </div>
+              <div>  
                 <a href="/mar/5-years-old"><img src="images/mar-5yo.jpg" title="5 years old" /></a>
               </div>
              
