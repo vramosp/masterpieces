@@ -1,6 +1,6 @@
 ---
-title: Portfolio
-subtitle: This is an optional subtitle for the portfolio page.
-layout_style: mosaic
+title: Artist: Mar
+subtitle: Check out Mar's masterpieces by age.
+layout_style: grid
 template: mar
 ---
