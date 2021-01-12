@@ -1,6 +1,6 @@
 ---
 title: Artist: Mar
 subtitle: Check out Mar's masterpieces by age.
-layout_style: grid
+layout_style: tiles
 template: mar
 ---
