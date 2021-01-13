@@ -4,9 +4,7 @@ subtitle: 'A interesting tale about function of design '
 excerpt: >-
   I want daddy to fix the Christmas time so I can see spooky decorations and the vampire swing looking at me.
 date: '2020-12-15'
-thumb_image: images/4.jpg
 thumb_image_alt: Halloween decorations
-image: images/4.jpg
 image_alt: Halloween decorations, Martinez Dec. 20202
 template: post
 ---
