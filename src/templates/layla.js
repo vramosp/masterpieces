@@ -30,7 +30,7 @@ export default class Portfolio extends React.Component {
 
               <table>
                 <tr>
-                  <td><a href="/layla/2-years-old"><h3>2 years old</h3><img src="images/layla-2yo.jpg" title="2 years old" /></a></td>
+                  <td><a href="/layla/2-years-old"><h3>2 years old</h3><img src="/images/layla-2yo.jpg" title="2 years old" /></a></td>
                 </tr>
               </table>
 
