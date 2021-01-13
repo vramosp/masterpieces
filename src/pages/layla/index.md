@@ -1,6 +1,6 @@
 ---
-title: Portfolio
-subtitle: This is an optional subtitle for the portfolio page.
-layout_style: mosaic
+title: Layla, artist
+subtitle: Check out Layla's masterpieces by age.
+layout_style: tiles
 template: layla
 ---

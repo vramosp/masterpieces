@@ -28,11 +28,12 @@ export default class Portfolio extends React.Component {
                 )}
               </header>
 
-              <ul>
-              <li><a href="/layla/2-years-old">2 year old</a></li>
-              <li><a href="/layla/2-years-old">3 year old</a></li>
-              <li><a href="/layla/2-years-old">4 year old</a></li>
-              </ul>
+              <table>
+                <tr>
+                  <td><a href="/layla/2-years-old"><h3>2 years old</h3><img src="images/layla-2yo.jpg" title="2 years old" /></a></td>
+                </tr>
+              </table>
+
             </div>
             </Layout>
         );

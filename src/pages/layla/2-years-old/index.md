@@ -1,6 +1,6 @@
 ---
 title: 2 Years Old
-subtitle: This is an optional subtitle for the portfolio page.
+subtitle: Layla - 2 years old
 layout_style: mosaic
 template: layla-years
 year: 2-years-old
