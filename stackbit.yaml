@@ -166,10 +166,10 @@ models:
             - section_testimonials
   blog:
     type: page
-    urlPath: /blog
+    urlPath: /blogging
     label: Blog
     layout: blog
-    file: blog/index.md
+    file: blogging/index.md
     hideContent: true
     singleInstance: true
     fields:
