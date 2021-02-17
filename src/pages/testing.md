@@ -5,7 +5,7 @@ excerpt: 'this is a test, I''m not sure what I''m doing'
 sections:
   - title: test
     section_id: lorem-ipsum
-    subtitle: lorem-ipsum
+    subtitle: I have no idea what I'm doing
     col_number: two
     is_numbered: false
     grid_items:
