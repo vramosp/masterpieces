@@ -1,7 +1,7 @@
 ---
 title: test
 hide_title: true
-excerpt: lorem-ipsum
+excerpt: 'this is a test, I''m not sure what I''m doing'
 sections: []
 template: advanced
 ---
