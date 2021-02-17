@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: test
 hide_title: true
 excerpt: lorem-ipsum
 sections: []
